@@ -12,15 +12,14 @@
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
   
- 
-</head>
+ </head>
 
 <body id="Cafe Cinnamon" data-spy="scroll" data-target=".navbar" data-offset="50">
 
 <nav class="navbar navbar-default navbar-fixed-top">
   <div class="container-fluid">
     <div class="navbar-header">
-      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#cafe">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#Cafe">
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>                        
@@ -29,14 +28,14 @@
     </div>
     <div class="collapse navbar-collapse" id="Cafe">
       <ul class="nav navbar-nav navbar-right">
-        <li><a href="#cafe">Startseite</a></li>
+        <li><a href="#Cafe">Startseite</a></li>
         <li><a href="#Speisekarte">Speisekarte</a></li>
         <li><a href="#Kontakt">Kontakt</a></li>
         <li class="dropdown">
           
           <span class="caret"></span></a>
         </li>
-        <li><a href="#"><span class="glyphicon glyphicon-search"></span></a></li>
+      
       </ul>
     </div>
   </div>
@@ -44,20 +43,18 @@
 
 <div id="Bilder" class="carousel slide" data-ride="carousel">
   
-    <ol class="carousel-indicators">
-      <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
-      <li data-target="#myCarousel" data-slide-to="1"></li>
-      <li data-target="#myCarousel" data-slide-to="2"></li>
-      <li data-target="#myCarousel" data-slide-to="3"></li>
-      <li data-target="#myCarousel" data-slide-to="4"></li>
-      <li data-target="#myCarousel" data-slide-to="5"></li>
-     
-      
-      
-    </ol>
+  <div class="container"> 
+  <ol class="carousel-indicators">
+      <li data-target="#Essen" data-slide-to="0" class="active"></li>
+      <li data-target="#Essen" data-slide-to="1"></li>
+      <li data-target="#Essen" data-slide-to="2"></li>
+      <li data-target="#Essen" data-slide-to="3"></li>
+      <li data-target="#Essen" data-slide-to="4"></li>
+      <li data-target="#Essen" data-slide-to="5"></li>
+  </ol>
 
     <!-- Wrapper for slides -->
-    <div class="carousel-inner" role="listbox">
+    <div class="carousel-inner">
       <div class="item active">
         <img src="https://www.google.at/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwjF1tbIgZbYAhWp7oMKHX7VCwwQjRwIBw&url=https%3A%2F%2Fwww.veganblatt.com%2Fschwedische-zimtschnecken&psig=AOvVaw1afUt74kLTuYK6ToGZVsCR&ust=1513770710292470" alt="Zimtschnecken" width="1200" height="700">
         <div class="carousel-caption">
@@ -107,15 +104,16 @@
     </div>
 
     <!-- Left and right controls -->
-    <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
-      <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+    <a class="left carousel-control" href="#Cafe" data-slide="prev">
+      <span class="glyphicon glyphicon-chevron-left"></span>
       <span class="sr-only">Previous</span>
     </a>
-    <a class="right carousel-control" href="#myCarousel" role="button" data-slide="next">
-      <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+    <a class="right carousel-control" href="#Cafe" data-slide="next">
+      <span class="glyphicon glyphicon-chevron-right"></span>
       <span class="sr-only">Next</span>
     </a>
 </div>
+  
 
 
 <div id="Cafe" class="container text-center">
@@ -123,27 +121,19 @@
   <p><em>Herzlich Willkommen auf unseren neuen Webpage!</em></p>
   <p>Hier finden sie Bilder und Speisen die wir im Angebot haben.</p>
   <br>
-  <div class="row">
- 
-   
-  </div>
 </div>
 
-<!-- Container (TOUR Section) -->
-<div id="tour" class="bg-1">
+<!-- Container (Speisekarte Section) -->
+<div id="Speisekarte" class="bg-1">
   <div class="container">
-    <h3 class="text-center">TOUR DATES</h3>
-    <p class="text-center">Lorem ipsum we'll play you some music.<br> Remember to book your tickets!</p>
-    <ul class="list-group">
-      <li class="list-group-item">September <span class="label label-danger">Sold Out!</span></li>
-      <li class="list-group-item">October <span class="label label-danger">Sold Out!</span></li> 
-      <li class="list-group-item">November <span class="badge">3</span></li> 
-    </ul>
+    <h3 class="text-center">Speisekarte</h3>
+    <p class="text-center">.......<br> ......</p>
+  </div>
     
-    <div class="row text-center">
-      <div class="col-sm-4">
-        <div class="thumbnail">
-          <img src="paris.jpg" alt="Paris" width="400" height="300">
+    <div class="container">
+      <div class="row">
+        <div class="col-md5">
+        <img src="
           <p><strong>Paris</strong></p>
           <p>Friday 27 November 2015</p>
           <button class="btn" data-toggle="modal" data-target="#myModal">Buy Tickets</button>
