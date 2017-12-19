@@ -58,55 +58,54 @@
   <!-- Wrapper for slides -->
   <div class="carousel-inner">
     <div class="item active">
-      <img src="https://www.google.at/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwj1ttvInpbYAhWQoaQKHd7gC08QjRwIBw&url=https%3A%2F%2Fwww.chefkoch.de%2Frezepte%2F118601050415074%2FSchwedische-Zimtschnecken-Kanelbullar.html&psig=AOvVaw0oLeOeZW0S4Mp-OOU7uxVu&ust=1513778518265727" alt="Meilenstein für Honda" >
+      <img src="apfelzimtmuffins.jpg" alt="Apfel-Zimt Muffins" >
     </div>
 
     <div class="item">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Ducati_748_Studio.jpg/1200px-Ducati_748_Studio.jpg" alt="Chicago">
+      <img src="apfelzimtorte.jpg" alt="Apfel-Zimt Torte">
     </div>
 
     <div class="item">
-      <img src="https://www.motorradonline.de/media/mrd-820778/800x800/010ps012017karbon-fuer-supersportlerbmw-s-1000-rr1920jpg.jpg" alt="New York">
+      <img src="Zimtschnecke.jpg" alt="Zimtschnecken">
     </div>
   </div>
 
   <!-- Left and right controls -->
-  <a class="left carousel-control" href="#Motorräder" data-slide="prev">
+  <a class="left carousel-control" href="#Cafe" data-slide="prev">
     <span class="glyphicon glyphicon-chevron-left"></span>
     <span class="sr-only">Previous</span>
   </a>
-  <a class="right carousel-control" href="#Motorräder" data-slide="next">
+  <a class="right carousel-control" href="#Cafe" data-slide="next">
     <span class="glyphicon glyphicon-chevron-right"></span>
     <span class="sr-only">Next</span>
   </a>
 </div>
-  </div>
+  
 
-<!-- Container (Fakten) -->
-<div id="Fakten" class="container text-center">
-  <h2>Motorräder</h2>
-  <p><em>Fakten!</em></p>
-  <p>Motorräder dienen nicht nur dem Transport. Man fährt nicht, um von A nach B zu kommen. Das Bike steht vielmehr als Symbol der Freiheit für einen Lebensstil und Wunschträume. Motorradfahren ist eine Leidenschaft, ob mit hoher Geschwindigkeit oder klassisch gelassen.</p>
+<!-- Container (Cafe Cinnamon) -->
+<div id="Cafe Cinnamon" class="container text-center">
+  <h2>Cafe Cinnamon</h2>
+  <p><em>Herzlich Willkommen!</em></p>
+  <p>Hier finden sie Speisekarten und Bilder von unserem Cafe</p>
   <br>
   </div>
 
-<!-- Container (Geschichte Section) -->
-<div id="Geschichte" class="bg-1">
+<!-- Container (Speisekarte Section) -->
+<div id="Speisekarte" class="bg-1">
   <div class="container">
-    <h3 class="text-center">Geschichte</h3>
-    <p class="text-center">Die Geschichte des Motorrads ist zunächst die Geschichte des Fahrrads. Sie begann 1817 mit der „Laufmaschine“ von Karl Drais. In den 1860er-Jahren wurde die Tretkurbel erfunden. Pierre Michaux entwickelte 1869 das Dampfrad, das als Vorläufer des Motorrads gilt; Dampfräder wurden bis in die 1890er-Jahre in den USA hergestellt.
-        Gottlieb Daimler und Wilhelm Maybach konstruierten 1885 den Reitwagen, einen Versuchsträger für den schnelllaufenden mit Benzin betriebenen Ottomotor. Dieses Fahrzeug gilt – trotz seiner seitlichen Stützräder – als erstes Motorrad. Erstes Serienmotorrad mit Benzinmotor ist die Hildebrand & Wolfmüller von 1894. Dieser Hersteller verwendete erstmals das Wort „Motorrad“ und ließ es patentrechtlich schützen. 1897 ging das De-Dion-Bouton-Motordreirad in Produktion, das erfolgreichste Motorfahrzeug vor der Jahrhundertwende. Im gleichen Jahr entwickelten die Gebrüder Werner in Frankreich ein Motorrad mit Frontantrieb. Mit der technischen Innovation des Spritzdüsenvergasers, einem Patent von Wilhelm Maybach von 1893, und der Magnetzündung, einem Patent von Robert Bosch von 1901, wurde das Motorrad wesentlich einfacher benutzbar.
+    <h3 class="text-center">Speisekarte</h3>
+    <p class="text-center"> Hier sehen sie unsere neuen Speisekarten!
     </p>
   </div>
  <div class="container">    
    <div class="row">
      <div class="col-md-5">
-       <img src="http://www.genussmaenner.de/content/images/55c15afe248d99272df60b77c695640b.jpg" alt="Geschichte des Mottorads"/>
+       <img src="Unbennant.JPG" alt="Hausgemachtes"/>
      </div>
      <div class="col-md-2">
      </div>
      <div class="col-md-5">
-       <img src="https://www.famousbirthdays.com/faces/drais-karl-image.jpg" alt="Erfinder"/>  
+       <img src="Unbennant2.JPG" alt="Heiße Getränke"/>  
      </div>
    </div>
  </div>
@@ -119,11 +118,11 @@
 <!-- Container (Kontakt Section) -->
 <div id="Kontakt" class="container">
   <h3 class="text-center">Kontakt</h3>
-  <p class="text-center"><em>Noch Fragen?</em></p>
+  <p class="text-center"><em>Haben sie noch irgendwelche Fragen?</em></p>
 
   <div class="row">
     <div class="col-md-4">
-      <p>Fragen?   Schreib uns eine email.</p>
+      <p>Schreibe uns eine Email!</p>
       <p><span class="glyphicon glyphicon-map-marker"></span>Österreich</p>
       <p><span class="glyphicon glyphicon-envelope"></span>Email: erik&maxi@hotmail.com</p>
     </div>
