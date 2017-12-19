@@ -4,7 +4,7 @@
 <head>
     
   
-  <title>Motorcycles</title>
+  <title>Cafe Cinnamon</title>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
@@ -15,30 +15,30 @@
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
   
 </head>
-<body id="Motorcycles" data-spy="scroll" data-target=".navbar" data-offset="50">
+<body id="Cafe" data-spy="scroll" data-target=".navbar" data-offset="50">
 
 <nav class="navbar navbar-default navbar-fixed-top">
   <div class="container-fluid">
     <div class="navbar-header">
-      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#Bikes">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#Cafe">
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>                        
       </button>
-      <a class="navbar-brand" href="#Motorcycles">Motorräder</a>
+      <a class="navbar-brand" href="#Cafe Cinnamon">Cafe Cinnamon</a>
     </div>
-    <div class="collapse navbar-collapse" id="Bikes">
+    <div class="collapse navbar-collapse" id="Cafe">
       <ul class="nav navbar-nav navbar-right">
-        <li><a href="#Motorräder">Startseite</a></li>
-        <li><a href="#Geschichte">Geschichte</a></li>
+        <li><a href="#Cafe">Startseite</a></li>
+        <li><a href="#Speisekarte">Speisekarte</a></li>
         <li><a href="#Kontakt">Kontakt</a></li>
         <li class="dropdown">
           <a class="dropdown-toggle" data-toggle="dropdown" href="#">Mehr
           <span class="caret"></span></a>
           <ul class="dropdown-menu">
-            <li><a href="https://suchen.mobile.de/fahrzeuge/search.html?vc=Motorbike">Gebrauchbörse</a></li>
-            <li><a href="https://www.louis.at/">Bekleidung</a></li>
-            <li><a href="https://www.gearparts24.de/">Tuning und Ersatzteile</a></li> 
+            <li><a href="http://www.cafe-jakob.at/startseite/">Partnerseite</a></li>
+            <li><a href=https://www.billa.at/Startseite/Startseite/dd_bi_mainpage.aspx">Waren</a></li>
+            <li><a href="https://www.ichkoche.at/rezepte">Rezepte</a></li> 
           </ul>
         </li>
        </ul>
@@ -46,19 +46,19 @@
     </div>
     </nav>
   
-<div id="Motorräder" class="carousel slide" data-ride="carousel">
+<div id="Bilder" class="carousel slide" data-ride="carousel">
   <!-- Indicators -->
   <div class="container">
   <ol class="carousel-indicators">
-    <li data-target="#Motorcycles" data-slide-to="0" class="active"></li>
-    <li data-target="#Motorcycles" data-slide-to="1"></li>
-    <li data-target="#Motorcycles" data-slide-to="2"></li>
+    <li data-target="#Bilder" data-slide-to="0" class="active"></li>
+    <li data-target="#Bilder" data-slide-to="1"></li>
+    <li data-target="#Bilder" data-slide-to="2"></li>
   </ol>
 
   <!-- Wrapper for slides -->
   <div class="carousel-inner">
     <div class="item active">
-      <img src="http://www.ducati.de/cms-web/fs//img/Heritage/Modelli/Heritage_Mod_A1955-57_Marianna_01_634x357.jpg/Heritage_Mod_A1955-57_Marianna_01_634x357_634x357.jpg" alt="Meilenstein für Honda" >
+      <img src="https://www.google.at/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwj1ttvInpbYAhWQoaQKHd7gC08QjRwIBw&url=https%3A%2F%2Fwww.chefkoch.de%2Frezepte%2F118601050415074%2FSchwedische-Zimtschnecken-Kanelbullar.html&psig=AOvVaw0oLeOeZW0S4Mp-OOU7uxVu&ust=1513778518265727" alt="Meilenstein für Honda" >
     </div>
 
     <div class="item">
